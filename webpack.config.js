@@ -17,7 +17,7 @@ module.exports = {
         }]
     },
     output: {
-        path: __dirname + "/webpack/js",
+        path: __dirname + "/webpack/dist",
         filename: "build.min.js"
     },
     plugins: debug ? [] : [
