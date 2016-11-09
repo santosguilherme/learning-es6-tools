@@ -13,4 +13,5 @@ https://github.com/ldaltro/guia-basico-ES6
     - [x] [Strings](es6/strings.js)
     - [x] [Template Literals](es6/template-literals.js)
     - [x] [Deconstructors](es6/deconstructors.js)
-    - [] [Modules](es6/modules.js)
+    - [x] [Modules](es6/modules)
+    - [x] [Parameters](es6/parameters.js)
