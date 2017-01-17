@@ -17,3 +17,5 @@ https://github.com/ldaltro/guia-basico-ES6
     - [x] [Parameters](es6/parameters.js)
     - [x] [Spread](es6/spread.js);
     - [x] [Promises](es6/promises.js);    
+    - [x] [Generators](es6/generators.js);
+    - [x] [Async and Await](es6/async-await.js);
